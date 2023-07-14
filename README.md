@@ -11,7 +11,7 @@ REQUIREMENTS:
 vesicle_sim.py is for use with Python3 and requires modules: NumPy, sys, SciPy (optimize and special).
 vesicle_sim.C requires GSL libraries are required for random number generation and spherical harmonics.
 
-INSTALLATION (C program_:
+INSTALLATION (C program):
 
 autoreconf --install
 configure
